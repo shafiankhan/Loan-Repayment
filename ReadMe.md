@@ -2,7 +2,7 @@
 
 ## Project Overview
 **"Predicting and Visualizing Overseas Loan Repayment Strategies"** is a comprehensive solution designed to assist borrowers in effectively managing their overseas loans. This project provides an end-to-end system that predicts repayment timelines, evaluates financial health, and offers actionable recommendations. By leveraging advanced machine learning and insightful visualizations, it empowers users to stay on track with their financial goals while avoiding debt traps.  
-[Project](https://repaymaster.streamlit.app)
+[Project](https://intellirepay.streamlit.app/)
 
 
 ---
